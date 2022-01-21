@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>JaesClub - Constructora</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="Free HTML Templates" name="keywords">
+    <meta content="Free HTML Templates" name="description">
+
+    <!-- Favicon -->
+    <link href="img/favicon.ico" rel="icon">
+    
+    <link href="lib/flaticon/font/flaticon.css" rel="stylesheet">    
+
+    <!-- Google Web Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Oswald:wght@400;500;600&display=swap" rel="stylesheet"> 
+
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+
+    <!-- Flaticon Font -->
+    <link href="lib/flaticon/font/flaticon.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Topbar Start -->
+    <div class="container-fluid bg-dark py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 text-center text-lg-left mb-2 mb-lg-0">
+                    <div class="d-inline-flex align-items-center">
+                        <a class="text-white pr-3" href="">Iglú</a>
+                        <span class="text-white">|</span>
+                        <a class="text-white px-3" href="https://jaesclubjc.github.io/Enrique-Jaime/">Enrique Jaime</a>
+                        <span class="text-white">|</span>
+                        <a class="text-white pl-3" href="https://jaesclubjc.github.io/Enrique-Jaime/ford.html">Tienda</a>
+                    </div>
+                </div>
+                <div class="col-md-6 text-center text-lg-right">
+                    <div class="d-inline-flex align-items-center">
+                        <li><a href="https://vm.tiktok.com/ZM8gXn1ho/" ><img src="img/tiktok.png" > </a></li>
+                        <li><a href="https://www.facebook.com/Jaesclub-111181357407685" ><img src="img/meta.png" > </a></li>
+                        <li><a href="https://www.instagram.com/enrique_jaime_jc/?utm_source=qr" ><img src="img/inst.png" > </a></li>
+                        <li><a href="https://www.youtube.com/channel/UCYEjFf05JUddQHSwho19LzQ" ><img src="img/yt.png" > </a></li>
+                        <li><a href="https://t.me/EnriqueJaime" ><img src="img/tg.png" > </a></li>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Topbar End -->
+
+
+    <!-- Navbar Start -->
+    <div class="container-fluid position-relative nav-bar p-0">
+        <div class="container position-relative" style="z-index: 9;">
+            <nav class="navbar navbar-expand-lg bg-secondary navbar-dark py-3 py-lg-0 pl-3 pl-lg-5">
+                <a href="" class="navbar-brand">
+                    <h1 class="m-0 display-5 text-white"><span class="text-primary">Jaes</span>Club</h1>
+                </a>
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-between px-3" id="navbarCollapse">
+                    <div class="navbar-nav ml-auto py-0">
+                        <a href="index.html" class="nav-item nav-link">Inicio</a>
+                        <a href="about.html" class="nav-item nav-link">Empleo</a>
+                        <a href="service.html" class="nav-item nav-link">Servicio</a>
+                        <a href="project.html" class="nav-item nav-link">Contenido</a>
+                        <div class="nav-item dropdown">
+                            <a href="#" class="nav-link dropdown-toggle active" data-toggle="dropdown">Planos</a>
+                            <div class="dropdown-menu rounded-0 m-0">
+                                <a href="blog.html" class="dropdown-item">Catalogo</a>
+                                <a href="single.html" class="dropdown-item">Primer Plano</a>
+                            </div>
+                        </div>
+                        <a href="contact.html" class="nav-item nav-link">Contactanos</a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <!-- Navbar End -->
+
+
+    <!-- Under Nav Start -->
+    <div class="container-fluid bg-white py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 text-left mb-3 mb-lg-0">
+                    <div class="d-inline-flex text-left">
+                        <h1 class="fa fa-map-marker-alt mr-2"></h1>
+                        <div class="d-flex flex-column">
+                            <h5>JaesClub en:</h5>
+                            <p class="m-0">Cuernavaca & CDMX, Centro, Mx</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 text-left text-lg-center mb-3 mb-lg-0">
+                    <div class="d-inline-flex text-left">
+                        <h1 class="flaticon-email font-weight-normal text-primary m-0 mr-3"></h1>
+                        <div class="d-flex flex-column">
+                            <h5>Email:</h5>
+                            <p class="m-0">jaesclub@protonmail.com</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 text-left text-lg-right mb-3 mb-lg-0">
+                    <div class="d-inline-flex text-left">
+                        <h1 class="fa fa-phone-alt mr-2"></h1>
+                        <div class="d-flex flex-column">
+                            <h5>LLamanos</h5>
+                            <p class="m-0">777-213-3893</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Under Nav End -->
+
+
+    <!-- Page Header Start -->
+    <div class="container-fluid bg-secondary py-5">
+        <div class="container py-5">
+            <div class="row align-items-center py-4">
+                <div class="col-md-6 text-center text-md-left">
+                    <h1 class="mb-4 mb-md-0 text-primary text-uppercase">Catalogo 2022</h1>
+                </div>
+                <div class="col-md-6 text-center text-md-right">
+                    <div class="d-inline-flex align-items-center">
+                        <a class="btn btn-outline-primary" href="">Inicio</a>
+                        <i class="fas fa-angle-double-right text-primary mx-2"></i>
+                        <a class="btn btn-outline-primary disabled" href="">Catalogo Planos</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Page Header Start -->
+
+
+    <!-- Blog Start -->
+    <div class="container-fluid bg-light pt-5">
+        <div class="container py-5">
+            <div class="row justify-content-center">
+                <div class="col-lg-6 col-md-8 col text-center mb-4">
+                    <h6 class="text-primary font-weight-normal text-uppercase mb-3">Inspiracion</h6>
+                    <h1 class="mb-4">Catalogo 2022 para terrenos de 6m - 11m</h1>
+                </div>
+            </div>
+            <div class="row pb-3">
+                <div class="col-md-4 mb-4">
+                    <div class="card border-0 mb-2">
+                        <img class="card-img-top" src="img/plano1.jpg" alt="">
+                        <div class="card-body bg-white p-4">
+                            <div class="d-flex align-items-center mb-3">
+                                <a class="btn btn-primary" href="plano1.html"><i class="fa fa-link"></i></a>
+                                <h5 class="m-0 ml-3 text-truncate">El Clásico Fraccionamiento</h5>
+                            </div>
+                            <p>3 dormitorios, 2 baños, 1 toilette, garaje simple, lavadero, depósito, cocina, comedor y sala de estar.</p>
+                            <div class="d-flex">
+                                <small class="mr-3"><i class="fa fa-user text-primary"></i> Israel L..</small>
+                                <small class="mr-3"><i class="fa fa-map-marker-alt mr-2"></i>  CDMX,México</small>
+                                <small class="mr-3"><i class="flaticon-house"></i>  6 x 18 metros.</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>              
+					  <div class="col-md-4 mb-4">
+                    <div class="card border-0 mb-2">
+                        <img class="card-img-top" src="img/5.jpg" alt="">
+                        <div class="card-body bg-white p-4">
+                            <div class="d-flex align-items-center mb-3">
+                                <a class="btn btn-primary" href="plano2.html"><i class="fa fa-link"></i></a>
+                                <h5 class="m-0 ml-3 text-truncate">Duplex en Esquina 7m</h5>
+                            </div>
+                            <p>5 dormitorios, 3 baños, cocina, comedor, Estudio, Lavadero y Quincho.</p>
+                            <div class="d-flex">
+                                <small class="mr-3"><i class="fa fa-user text-primary"></i> Jonathan N.</small>
+                                <small class="mr-3"><i class="fa fa-map-marker-alt mr-2"></i> Toluca - México.</small>
+                                <small class="mr-3"><i class="flaticon-house"></i>  7.5 x 22 metros</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div class="card border-0 mb-2">
+                        <img class="card-img-top" src="img/7.jpg" alt="">
+                        <div class="card-body bg-white p-4">
+                            <div class="d-flex align-items-center mb-3">
+                                <a class="btn btn-primary" href="plano3.html"><i class="fa fa-link"></i></a>
+                                <h5 class="m-0 ml-3 text-truncate">Duplex Moderno de 3 Dormitorios, 2 Baños y Garaje</h5>
+                            </div>
+                            <p>3 dormitorios, 2 baños, garaje simple, cocina, comedor, sala de estar.</p>
+                            <div class="d-flex">
+                                <small class="mr-3"><i class="fa fa-user text-primary"></i> Fernando y Cintia.</small>
+                                <small class="mr-3"><i class="fa fa-map-marker-alt mr-2"></i> Piura - Perú</small>
+                                <small class="mr-3"><i class="flaticon-house"></i>  8 x 22 metros.</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div class="card border-0 mb-2">
+                        <img class="card-img-top" src="img/10.jpg" alt="">
+                        <div class="card-body bg-white p-4">
+                            <div class="d-flex align-items-center mb-3">
+                                <a class="btn btn-primary" href="plano4.html"><i class="fa fa-link"></i></a>
+                                <h5 class="m-0 ml-3 text-truncate">Duplex Moderno de 3 Dormitorios y 2 Baños</h5>
+                            </div>
+                            <p> 3 dormitorios, 2 baños, 1 toilette, garaje simple, cocina, comedor, sala de estar, lavadero.</p>
+                            <div class="d-flex">
+                                <small class="mr-3"><i class="fa fa-user text-primary"></i> Carlos y M.</small>
+                                <small class="mr-3"><i class="fa fa-map-marker-alt mr-2"></i> Santa Fe- Argentina</small>
+                                <small class="mr-3"><i class="flaticon-house"></i> 9 x 18 metros.</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div class="card border-0 mb-2">
+                        <img class="card-img-top" src="img/13.jpg" alt="">
+                        <div class="card-body bg-white p-4">
+                            <div class="d-flex align-items-center mb-3">
+                                <a class="btn btn-primary" href="plano5.html"><i class="fa fa-link"></i></a>
+                                <h5 class="m-0 ml-3 text-truncate">Casa Pequeña de 2 Dormitorios y 1 Baño de 90 m2</h5>
+                            </div>
+                            <p>2 dormitorios, 1 baño, 2 garajes, lavadero, cocina, comedor y estar.</p>
+                            <div class="d-flex">
+                                <small class="mr-3"><i class="fa fa-user text-primary"></i> Diego L. </small>
+                                <small class="mr-3"><i class="fa fa-map-marker-alt mr-2"></i> Bahía Blanca - Argentina</small>
+                                <small class="mr-3"><i class="flaticon-house"></i>  9 x 18 metros.</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div class="card border-0 mb-2">
+                        <img class="card-img-top" src="img/15.jpg" alt="">
+                        <div class="card-body bg-white p-4">
+                            <div class="d-flex align-items-center mb-3">
+                                <a class="btn btn-primary" href="plano6.html"><i class="fa fa-link"></i></a>
+                                <h5 class="m-0 ml-3 text-truncate">Casa Pequeña de 2 Dormitorios y 1 Baño de 81 m2</h5>
+                            </div>
+                            <p>2 dormitorios, 1 baño, cocina, comedor, sala de estar, lavadero.</p>
+                            <div class="d-flex">
+                                <small class="mr-3"><i class="fa fa-user text-primary"></i> Federico R. </small>
+                                <small class="mr-3"><i class="fa fa-map-marker-alt mr-2"></i> Bahía Blanca - Argentina</small>
+                                <small class="mr-3"><i class="flaticon-house"></i>  8 x 20 metros.</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div class="card border-0 mb-2">
+                        <img class="card-img-top" src="img/17.jpg" alt="">
+                        <div class="card-body bg-white p-4">
+                            <div class="d-flex align-items-center mb-3">
+                                <a class="btn btn-primary" href="plano7.html"><i class="fa fa-link"></i></a>
+                                <h5 class="m-0 ml-3 text-truncate">Duplex de 218 m2, 3 Dormitorios y cobertizo</h5>
+                            </div>
+                            <p>3 dormitorios, 2 baños, 1 toilette, garaje simple, depósito, quincho, cocina, comedor y sala de estar.</p>
+                            <div class="d-flex">
+                                <small class="mr-3"><i class="fa fa-user text-primary"></i> Mauro y Romina</small>
+                                <small class="mr-3"><i class="fa fa-map-marker-alt mr-2"></i> Miami - Estados Unidos</small>
+                                <small class="mr-3"><i class="flaticon-house"></i> 8 x 31 metros</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div class="card border-0 mb-2">
+                        <img class="card-img-top" src="img/20.jpg" alt="">
+                        <div class="card-body bg-white p-4">
+                            <div class="d-flex align-items-center mb-3">
+                                <a class="btn btn-primary" href="plano8.html"><i class="fa fa-link"></i></a>
+                                <h5 class="m-0 ml-3 text-truncate">Duplex con Estudio y Lavadero</h5>
+                            </div>
+                            <p>3 dormitorios, 1 baño, 1 toilette, garaje simple, estudio, lavadero, cocina, comedor y sala de estar.</p>
+                            <div class="d-flex">
+                                <small class="mr-3"><i class="fa fa-user text-primary"></i> Patricio F. </small>
+                                <small class="mr-3"><i class="fa fa-map-marker-alt mr-2"></i> Concepción - Chile</small>
+                                <small class="mr-3"><i class="flaticon-house"></i>  8 x 20 metros.</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div class="card border-0 mb-2">
+                        <img class="card-img-top" src="img/23.jpg" alt="">
+                        <div class="card-body bg-white p-4">
+                            <div class="d-flex align-items-center mb-3">
+                                <a class="btn btn-primary" href="plano9.html"><i class="fa fa-link"></i></a>
+                                <h5 class="m-0 ml-3 text-truncate">Casa pequeña con 2 dormitorios y 1 baño de 97 m2</h5>
+                            </div>
+                            <p>2 dormitorios, 1 baño, cocina, comedor, sala de estar.</p>
+                            <div class="d-flex">
+                                <small class="mr-3"><i class="fa fa-user text-primary"></i> Cristian C. </small>
+                                <small class="mr-3"><i class="fa fa-map-marker-alt mr-2"></i> Juliaca – Perú</small>
+                                <small class="mr-3"><i class="flaticon-house"></i>  8 x 19 metros.</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+
+                <div class="col-md-12 mb-4">
+                    <nav aria-label="Page navigation">
+                      <ul class="pagination justify-content-center mb-0">
+                        <li class="page-item disabled">
+                          <a class="page-link" href="cat3" aria-label="Previous">
+                            <span aria-hidden="true">&laquo;</span>
+                            <span class="sr-only">Anterior</span>
+                          </a>
+                        </li>
+                        <li class="page-item active"><a class="page-link" href="cat1.html">1</a></li>
+                        <li class="page-item"><a class="page-link" href="cat2.html">2</a></li>
+                        <li class="page-item"><a class="page-link" href="cat3.html">3</a></li>
+                        <li class="page-item">
+                          <a class="page-link" href="cat2" aria-label="Next">
+                            <span aria-hidden="true">&raquo;</span>
+                            <span class="sr-only">Siguiente</span>
+                          </a>
+                        </li>
+                      </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Blog End -->
+
+
+    <!-- Footer Start -->
+    <div class="container-fluid bg-dark text-white mt-5 py-5 px-sm-3 px-md-5">
+        <div class="row pt-5">
+            <div class="col-lg-3 col-md-6 mb-5">
+                <h4 class="text-primary mb-4">Contactanos</h4>
+                <p><i class="fa fa-map-marker-alt mr-2"></i>CDMX,Cuernavaca (Centro).</p>
+                <p><i class="fa fa-phone-alt mr-2"></i>777-213-3893</p>
+                <p><i class="fa fa-envelope mr-2"></i>jaesclub@protonmail.com</p>
+                <div class="d-flex justify-content-start mt-4">
+                        <li><a href="https://vm.tiktok.com/ZM8gXn1ho/" style="width: 38px; height: 38px;"><img src="img/tiktok.png" > </a></li>
+                        <li><a href="https://www.facebook.com/Jaesclub-111181357407685" style="width: 38px; height: 38px;"><img src="img/meta.png" > </a></li>
+                        <li><a href="https://www.instagram.com/enrique_jaime_jc/?utm_source=qr" style="width: 38px; height: 38px;"><img src="img/inst.png" > </a></li>
+                        <li><a href="https://www.youtube.com/channel/UCYEjFf05JUddQHSwho19LzQ" style="width: 38px; height: 38px;"><img src="img/yt.png" > </a></li>
+                        <li><a href="https://t.me/EnriqueJaime" style="width: 38px; height: 38px;"><img src="img/tg.png" > </a></li>                
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-5">
+                <h4 class="text-primary mb-4"> Links</h4>
+                <div class="d-flex flex-column justify-content-start">
+                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Inicio</a>
+                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Contenido</a>
+                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Servicio</a>
+                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Planos</a>
+                    <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Contacto</a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-5">
+                <h4 class="text-primary mb-4">Planos Links</h4>
+                <div class="d-flex flex-column justify-content-start">
+                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>6m-11m</a>
+                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>12m-17m</a>
+                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>18m-23m</a>
+                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>25m-30m</a>
+                    <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>31m-39m</a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-5">
+                <h4 class="text-primary mb-4">Newsletter</h4>
+                <form action="http://eepurl.com/hNVQ4f">
+                    <div>
+                        <button class="btn btn-lg btn-primary btn-block border-0" type="submit">Suscribete 👓</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="container border-top border-secondary pt-5">
+            <p class="m-0 text-center text-white">
+                &copy; <a  href="#">Jaesclub</a> Copyright 2022 Todos los derechos reservados | Por <i class="text-white font-weight-bold" aria-hidden="true"></i><a href="https://jaesclubjc.github.io/Enrique-Jaime/" target="_blank">Enrique Jaime</a>
+                 con <a class="text-white font-weight-bold" href="https://utopiaartificial.github.io">UtopiaArtificial</a>
+            </p>
+        </div>
+    </div>
+    <!-- Footer End -->
+
+
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-lg btn-primary back-to-top"><i class="fa fa-angle-double-up"></i></a>
+
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="lib/isotope/isotope.pkgd.min.js"></script>
+    <script src="lib/lightbox/js/lightbox.min.js"></script>
+
+    <!-- Contact Javascript File -->
+    <script src="mail/jqBootstrapValidation.min.js"></script>
+    <script src="mail/contact.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
+</body>
+
+</html>
